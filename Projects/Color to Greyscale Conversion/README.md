@@ -1,3 +1,4 @@
+## P1
 A common way to represent color images is known as RGBA - the color
 is specified by how much Red, Green, and Blue is in it.
 The 'A' stands for Alpha and is used for transparency; it will be
